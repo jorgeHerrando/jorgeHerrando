@@ -7,4 +7,4 @@
 - 💬 Ask me about my story
 - 📫 How to reach me: j.herrando.dev@gmail.com
 
-- ⚡ Fun fact: I played waterpolo for many years and still not able to swim in the ocean..
+- ⚡ Fun fact: I played waterpolo for many years and still afraid to swim in the ocean..
