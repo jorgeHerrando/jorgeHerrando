@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on becoming a great developer
 - 🌱 I am a Full Stack Developer 
 - 👯 I’m looking to collaborate on an inspiring project!
-- 🤔 I’m looking for a job to put my skills in practice
+- 🤔 Interested in Nextjs, React, Express, MongoDB
 - 💬 Ask me about my story
 - 📫 How to reach me: j.herrando.dev@gmail.com
 
